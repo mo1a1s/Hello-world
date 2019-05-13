@@ -2,9 +2,9 @@
 This is a basic hello world project
 
 
-#Code
+# Code
 print(Hello-world)
 
-#Copy Write
+# Copy Write
 
 This document is copy write for SS&GG Co.
