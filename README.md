@@ -3,8 +3,8 @@ This is a basic hello world project
 
 
 # Code
-print(Hello-world)
+print(Hello-world), sta
 
 # Copy Write
 
-This document is copy write for SS&GG Co.
+There is no copy write
